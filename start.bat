@@ -1,6 +1,5 @@
 @echo off
 setlocal enabledelayedexpansion
-
 cls
 
 echo Starting the process to setup Node.js environment...
